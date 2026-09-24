@@ -9,6 +9,7 @@ Denní short-form série v angličtině o stavbě Roblox hry.
 | [`devlog/templates/short-script.md`](devlog/templates/short-script.md) | Šablona scénáře pro každý další díl |
 | [`devlog/templates/daily-log.md`](devlog/templates/daily-log.md) | Denní log — z něj se píše scénář |
 | [`devlog/english-phrases.md`](devlog/english-phrases.md) | Hooky, fráze, výslovnost |
+| [`devlog/obs-setup.md`](devlog/obs-setup.md) | OBS + Studio nastavení a test, jestli to PC utáhne |
 
 **Start:** přečti `devlog/PLAN.md`, vyplň větu s cílem série, pak jdi na
 `devlog/scripts/week01.md` a natoč Day 1.
